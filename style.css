@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+
+}
+h1 {
+    font-size: 40px;
+font-family: 'Pacifico', cursive;;
+}
+#app {
+    background-color: darkorange;
+
+}
+#games {
+    background-color: blue;
+}
+.line {
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+    background-color: darkturquoise;
+}
